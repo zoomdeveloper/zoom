@@ -1,0 +1,16 @@
+hatsatab el github 3andak we tfta7 el commind line we tbta2 tktb dol: 
+
+
+git clone https://github.com/zoomdeveloper/zoom.git // hna hatnzel el project 3andak
+cd /zoom					// b3den t5osh gwah
+git branch version1	// anta tlo2ty 5alst 4o8lk we 3az trfa3o ht3mel branch gded law yakon "vesion1"
+git add .		// b add el new files
+git remote add origin https://github.com/AbdelhalimAhmed/zoom.git
+git commit -m "commit sign in" // t3ml commit t2ol feh elly 3amlo law yakon "commit sign in"
+git push origin version1	// b3den bta3mal push ll files 3ala el acoount 
+
+username:zoomdeveloper
+password:0164213617.loma
+
+
+__________________________________________
